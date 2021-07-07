@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 <h3 align="center">A true enthusiast of technologies in general! Now studying full stack web development!</h3>
 
-- 🔭 I’m currently studying Full Stack web development on **Cubos Academy's bootcamp**
+- 🔭 I’m currently studying Full Stack web development at **Cubos Academy's bootcamp**
 
 - 🌱 I’m currently learning **Rest API, PostgreSQL and React.js**
 
