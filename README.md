@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate as my first experience on an **internship program or a full job at all.**
 
-- 💬 Ask me about **Javascript, HTML, CSS, React.js, Node.js, Rest API, PostgreSQL, Ruby and C/C++.**
+- 💬 Ask me about **Javascript, HTML, CSS, React.js, Node.js, Rest API, PostgreSQL and C/C++.**
 
 - 📫 You can reach me at **vitorlealm.21@gmail.com or +55 32 985015459 (Whatsapp)**
 
