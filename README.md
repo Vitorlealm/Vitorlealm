@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Full Stack web development at **Cubos Academy's bootcamp**
 
-- 🌱 I’m currently learning **Rest API, PostgreSQL and React.js**
+- 🌱 I’m currently learning **PostgreSQL, Java/Spring and React.js**
 
 - 👯 I’m looking to collaborate as my first experience on an **internship program or a full job at all.**
 
