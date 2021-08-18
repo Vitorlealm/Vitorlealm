@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL, Java/Spring and React.js**
 
-- 👯 I’m looking to collaborate as my first experience on an **internship program or a full job at all.**
+- 👯 I’m currently working at **R2DA Technologies.**
 
 - 💬 Ask me about **Javascript, HTML, CSS, React.js, Node.js, Rest API, PostgreSQL and C/C++.**
 
