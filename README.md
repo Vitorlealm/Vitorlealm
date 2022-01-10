@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular and Spring.**
 
-- 💬 Ask me about **Angular, React and maybe Vue as well. Also Node.js, SQL, REST APIs, C/C++, Arduino/Esp/microcontrollers and IoT platforms in general.**
+- 💬 Ask me about **Angular, React and maybe Vue as well. Also Node.js, Java, SQL, REST APIs, C/C++, Arduino/Esp/microcontrollers and IoT platforms in general.**
 
 - 📫 You can reach me at **linkedin.com/in/vitor-leal-535109194/**
 
